@@ -1,0 +1,18 @@
+﻿// sdfjsdoifjsdiofjoi
+
+
+
+// sdfsdf 
+
+
+
+/*   sdfsdf 
+
+
+
+*/
+void main()
+{
+
+	return 0;   // sdfsdfsdf
+}
